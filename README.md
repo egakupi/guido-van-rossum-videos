@@ -1,4 +1,4 @@
-# guido-van-rossum-photos
+# guido-van-rossum-videos
 Видео с Guido Van Rossum для обучения нейросети
 
 # Зачем??
